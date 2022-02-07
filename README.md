@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TruongQuocDat, English name: Gabriel
 - 👀 I’m have 5+year experiences ROR
+- 🙂 Fullstack: Backend, Frontend, API, design structure/database, can work with Vuejs
 - 🌱 I’m currently freelancer
 - 💞️ I’m looking freelancer job
 - 📫 How to reach me: WhatsApp: `+84868172492`/ Skype: `live:b322a81bda098829`
